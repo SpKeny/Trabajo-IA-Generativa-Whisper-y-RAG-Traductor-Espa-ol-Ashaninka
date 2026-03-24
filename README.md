@@ -1,3 +1,11 @@
+# Exposicicón sobre Modelo Whisper
+Se brinda información sobre el modelo Whisper especializado en convertir audio en texto
+
+## 🚀 Presentación Interactiva
+He preparado una presentación detallada en **Prezi** donde se explica el modelo Whisper.
+
+### 🔗 [Ver Presentación en Prezi](https://prezi.com/view/tuDVmMj9PF2lohSx1YXo/?referral_token=z-wKNMlnB3FN)
+
 # Proyecto de Traducción Asháninka 🇵🇪
 
 Este repositorio contiene los avances, documentación y herramientas desarrolladas para el proyecto de traducción y preservación de la lengua Asháninka.
