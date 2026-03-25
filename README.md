@@ -19,7 +19,7 @@ Mejorar la comunicación bilingüe o documentar variantes regionales.
 He preparado una presentación detallada en **Prezi** donde se explican los objetivos, la metodología y el alcance de este trabajo de traducción.
 
 ### 🔗 [Ver Presentación en Prezi](https://prezi.com/view/tuDVmMj9PF2lohSx1YXo/?referral_token=z-wKNMlnB3FN)
-### 🔗 [Ver Presentación en video](https://prezi.com/view/tuDVmMj9PF2lohSx1YXo/?referral_token=z-wKNMlnB3FN)
+### 🔗 [Ver Presentación en video](https://drive.google.com/file/d/1RayXHYmSyihhs9rcJSXuRkhhrWztgWke/view?usp=drive_link)
 
 
 > **Nota:** La presentación incluye animaciones y un recorrido visual por los puntos clave del proyecto. Se recomienda ver en pantalla completa.
