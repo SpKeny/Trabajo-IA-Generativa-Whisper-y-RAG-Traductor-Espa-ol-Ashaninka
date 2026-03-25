@@ -11,7 +11,15 @@ He preparado una presentación detallada en **Prezi** donde se explica el modelo
 Este repositorio contiene los avances, documentación y herramientas desarrolladas para el proyecto de traducción y preservación de la lengua Asháninka.
 
 ## 📝 Descripción del Proyecto
-Mejorar la comunicación bilingüe o documentar variantes regionales.
+Este proyecto surge de la necesidad de cerrar las brechas lingüísticas y tecnológicas para la nación Asháninka, el pueblo indígena más numeroso de la Amazonía peruana. El objetivo principal es desarrollar y documentar herramientas de Inteligencia Artificial y Procesamiento de Lenguaje Natural (NLP) que faciliten la traducción y preservación de esta lengua originaria.
+
+A través del uso de modelos de aprendizaje automático y la recopilación de datos estructurados, este trabajo busca:
+
+    * Fortalecer la documentación lingüística: Crear un corpus digital organizado y listo para el entrenamiento de modelos modernos.
+    * Optimizar la traducción: Proporcionar un marco técnico para traducir conceptos complejos entre el castellano y el asháninka, respetando el contexto cultural y social.
+    * Inclusión Digital: Promover el uso de tecnologías de información en comunidades indígenas para el empoderamiento socioeconómico y la protección de sus derechos.
+
+Este repositorio es el resultado de un esfuerzo de integración entre la ciencia de datos y la cooperación para el desarrollo, enfocado en el impacto real en las comunidades.
 
 ---
 
